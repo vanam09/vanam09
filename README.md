@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**vanam09/vanam09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 With over 15 years of experience in the world of data, I specialize in crafting reliable, scalable solutions across the entire data pipeline—from extraction and transformation to analysis and integration. My expertise spans ETL tools (SSIS, IBM Information Server, Hevo, Azure Data Factory, Talend, and Pentaho), Cloud Data Integration using Snowflake, AWS S3 Buckets, and other cloud platforms, and Data Analytics with tools like Power BI, Qlik Sense, and SSAS.
 
 Here’s a snapshot of my skillset:
@@ -17,6 +12,8 @@ Programming: Proficient in Python, Shell Scripting, and PowerShell for automatio
 Azure DevOps: Driving CI/CD-based deployments within cloud environments for streamlined data operations.
 I’m passionate about tackling complex data challenges, translating them into meaningful insights, and continuously expanding my skillset. Let’s connect and collaborate on exciting data-driven innovations!
 
+
+**vanam09/vanam09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
